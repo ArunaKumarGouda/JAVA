@@ -1,5 +1,4 @@
 public class Arrayproblems {
-
    static void addAnArray(){
 
         int[] arr = {4, 5, 7, 9, 2};
