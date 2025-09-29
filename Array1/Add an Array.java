@@ -8,7 +8,7 @@ public class Arrayproblems {
         for (int i = 0; i < arr.length; i++) {
             sum = sum + arr[i];
         }
-        System.out.println("The sum of array elements are :" + sum);
+        System.out.println("The sum of array elements are :" + sum); 
     }
   public static void main(String[] args) {
         addAnArray();
