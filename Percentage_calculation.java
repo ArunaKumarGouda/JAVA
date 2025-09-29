@@ -34,5 +34,7 @@ System.out.println("Total marks is :" + sum);
 
 float percentage = 100 * sum / 600f;
 System.out.println("The percentage of total marks is :" + percentage);
+
+sc.close();
  }
 }
