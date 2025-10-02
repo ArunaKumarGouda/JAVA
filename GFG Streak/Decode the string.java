@@ -9,7 +9,7 @@ class Solution {
 
         for (char c : s.toCharArray()) {
             if (Character.isDigit(c)) {
-                num = num * 10 + (c - '0'); // build number
+                num = num * 10 + (c - '0');  // build number
             } else if (c == '[') {
                 countStack.push(num);
                 stringStack.push(curr);
