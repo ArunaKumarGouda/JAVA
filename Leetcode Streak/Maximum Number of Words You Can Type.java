@@ -8,7 +8,7 @@ class Solution {
             for (char c : brokenLetters.toCharArray()) {
                 if (word.indexOf(c) != -1) { // word contains a broken letter
                     canType = false;
-                    break;
+                    break; 
                 }
             }
             if (canType) count++;
