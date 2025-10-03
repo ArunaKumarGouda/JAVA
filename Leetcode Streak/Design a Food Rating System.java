@@ -5,7 +5,7 @@ class FoodRatings {
     private Map<String, String> foodCuisine;
     // Maps food -> rating
     private Map<String, Integer> foodRating;
-    // Maps cuisine -> ordered set of foods
+    // Maps cuisine -> ordered set of foods 
     private Map<String, TreeSet<String>> cuisineFoods;
 
     public FoodRatings(String[] foods, String[] cuisines, int[] ratings) {
