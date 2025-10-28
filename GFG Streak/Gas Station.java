@@ -18,4 +18,4 @@ class Solution {
         // Check feasibility
         return (totalGas < totalCost) ? -1 : start;
     }
-}
+}. 
