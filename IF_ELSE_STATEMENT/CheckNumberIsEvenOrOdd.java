@@ -6,5 +6,5 @@ public class CheckNumberIsEvenOrOdd {
         }else{
             System.out.println("Number is odd.");
         }
-    }
+    } 
 }
