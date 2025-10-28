@@ -6,7 +6,7 @@ int n = arr.length;
         // Initial difference
         int ans = arr[n - 1] - arr[0];
 
-        int smallest = arr[0] + k;
+        int smallest = arr[0] + k; 
         int largest = arr[n - 1] - k;
 
         for (int i = 1; i < n; i++) {
