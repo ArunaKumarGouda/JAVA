@@ -14,7 +14,7 @@ public class Call_by_Value1 {
 
         System.out.println(c.id);
         System.out.println(c.name);
-        System.out.println(c.number);
+        System.out.println(c.number); 
 
     }
  }
