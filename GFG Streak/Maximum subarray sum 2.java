@@ -11,7 +11,7 @@ class Solution {
         }
 
         int maxSum = Integer.MIN_VALUE;
-        TreeSet<Pair> set = new TreeSet<>((p1, p2) -> p1.value != p2.value ? 
+        TreeSet<Pair> set = new TreeSet<>((p1, p2) -> p1.value != p2.value ?  
                                             Long.compare(p1.value, p2.value) : 
                                             Integer.compare(p1.index, p2.index));
 
