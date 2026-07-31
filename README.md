@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/java-banner.png" width="100%" alt="Java Banner">
+  <img src="assets/java-banner.jpeg" width="100%" alt="Java Banner">
 </p>
 
 <h1 align="center">☕ Java Programming</h1>
@@ -31,6 +31,18 @@ From Basics to Advanced • OOP • DSA • Problem Solving
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaKumarGouda&repo=JAVA&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/github/stars/ArunaKumarGouda/JAVA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/forks/ArunaKumarGouda/JAVA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/watchers/ArunaKumarGouda/JAVA?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/last-commit/ArunaKumarGouda/JAVA?style=for-the-badge"/>
 
 </p>
 
