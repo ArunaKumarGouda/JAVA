@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/java-banner.jpeg" width="100%" alt="Java Banner">
+  <img src="assets/java-banner.png" width="100%" alt="Java Banner">
 </p>
 
 <h1 align="center">☕ Java Programming</h1>
@@ -45,6 +45,19 @@ From Basics to Advanced • OOP • DSA • Problem Solving
 <img src="https://img.shields.io/github/last-commit/ArunaKumarGouda/JAVA?style=for-the-badge"/>
 
 </p>
+
+---
+
+# 📌 Repository Information
+
+| Property | Value |
+|----------|-------|
+| Language | Java |
+| IDE | IntelliJ IDEA / VS Code |
+| Build Tool | None (Currently) |
+| Repository Type | Learning Repository |
+| Difficulty | Beginner → Advanced |
+| Maintained By | Aruna Kumar Gouda |
 
 ---
 
