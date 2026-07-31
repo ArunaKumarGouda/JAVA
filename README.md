@@ -26,25 +26,14 @@ From Basics to Advanced • OOP • DSA • Problem Solving
 
 ---
 
-# 📊 Repository Statistics
+# ⭐ Repository Highlights
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ArunaKumarGouda&repo=JAVA&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/stars/ArunaKumarGouda/JAVA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/forks/ArunaKumarGouda/JAVA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/watchers/ArunaKumarGouda/JAVA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/last-commit/ArunaKumarGouda/JAVA?style=for-the-badge"/>
-
-</p>
+- 📚 Beginner to Advanced Java Programs
+- ☕ Object-Oriented Programming (OOP)
+- 🧩 Data Structures & Algorithms
+- 💼 Interview Preparation
+- 🚀 Mini Projects
+- 🌱 Spring Boot (Coming Soon)
 
 ---
 
