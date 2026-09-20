@@ -1,4 +1,4 @@
-public class Aru_1_HelloWorld {
+public class Aru_01_HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
